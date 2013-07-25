@@ -1,0 +1,21 @@
+{
+  "name": "node-ckeditor",
+  "description": "Admin GUI addon for mongoose and non mongoose projects on Express.js",
+  "version": "4.2.558",
+  "main": "route.js",
+  "author": {
+      "name": "Refael Ackermann",
+      "email": "refael@empeeric.com",
+      "url": "http://www.empeeric.com/"
+  },
+  "keywords": [
+    "ckeditor"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Empeeric/node-ckeditor.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Empeeric/node-ckeditor/issues"
+  }
+}
