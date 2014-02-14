@@ -1,6 +1,6 @@
 {
   "name": "node-ckeditor",
-  "description": "Admin GUI addon for mongoose and non mongoose projects on Express.js",
+  "description": "Simple npm module to load the statics of CKEditor",
   "version": "4.2.561",
   "main": "route.js",
   "author": {
@@ -9,13 +9,8 @@
     "url": "http://www.empeeric.com/"
   },
   "keywords": [
-    "ckeditor"
+    "ckeditor",
+    "statics"
   ],
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/Empeeric/node-ckeditor.git"
-  },
-  "bugs": {
-    "url": "https://github.com/Empeeric/node-ckeditor/issues"
-  }
+  "repository": "Empeeric/node-ckeditor.git"
 }
