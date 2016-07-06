@@ -5,12 +5,12 @@
   "main": "route.js",
   "author": {
     "name": "Refael Ackermann",
-    "email": "refael@empeeric.com",
-    "url": "http://www.empeeric.com/"
+    "email": "refael@node4good.org",
+    "url": "https://github.com/node4good"
   },
   "keywords": [
     "ckeditor",
     "statics"
   ],
-  "repository": "Empeeric/node-ckeditor.git"
+  "repository": "node4good/node-ckeditor.git"
 }
