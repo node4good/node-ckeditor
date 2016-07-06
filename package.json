@@ -1,7 +1,7 @@
 {
   "name": "node-ckeditor",
   "description": "Simple npm module to load the statics of CKEditor",
-  "version": "4.3.2",
+  "version": "4.5.9",
   "main": "route.js",
   "author": {
     "name": "Refael Ackermann",
